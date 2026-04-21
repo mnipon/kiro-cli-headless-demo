@@ -1,3 +1,3 @@
-  SECRET_KEY = 'sample secret key 1'
+  SECRET_KEY = 'sample secret key 2'
   USERNAME = 'admin'
   PASSWORD = 'default'
